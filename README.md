@@ -1,3 +1,3 @@
 # Sound analysis using Fourier Transform
 
-The material is part of **Signal and Systems** assignment, that I took in my 3rd semester at IIITD. 
+The notebook deals with audio filtering in the frequency domain with a custom implementation of the Discrete time Fourier Transform algorithm.
